@@ -132,3 +132,25 @@ results/
 ## 🛡 License
 
 This project is open-source under the **MIT License**.
+### Full Academic Report (12 Pages)
+<div align="center">
+  <a href="docs/AML_NEW.pdf">
+    <img src="https://img.shields.io/badge/Report-12 Pages-blue?style=for-the-badge&logo=adobe-acrobat-reader" alt="Report"/>
+  </a>
+  <a href="docs/Spam-Email-Classifier-Naive-Bayes-and-SVM.pptx">
+    <img src="https://img.shields.io/badge/Slides-Presentation-orange?style=for-the-badge&logo=microsoft-powerpoint" alt="Slides"/>
+  </a>
+</div>
+
+<br>
+
+**Key Highlights from the Report**
+| Section                  | Summary                                                                 |
+|--------------------------|-------------------------------------------------------------------------|
+| Introduction             | Spam wastes bandwidth, reduces productivity, enables phishing & fraud  |
+| Prior Study              | Rule-based → outdated<br>Naïve Bayes → fast but word dependencies<br>SVM → strong margins<br>**Hybrid → best of both** |
+| Problem Statement        | “Design & implement a hybrid NB+SVM system for accurate spam filtering” |
+| Methodology              | Data cleaning → TF-IDF → Voting ensemble → 97.8% accuracy              |
+| Results                  | Hybrid outperforms individual models (see table above)                   |
+
+> Full 12-page report with references, flowcharts and detailed analysis is available in [`docs/AML_NEW.pdf`](docs/AML_NEW.pdf)

@@ -153,4 +153,3 @@ This project is open-source under the **MIT License**.
 | Methodology              | Data cleaning → TF-IDF → Voting ensemble → 97.8% accuracy              |
 | Results                  | Hybrid outperforms individual models (see table above)                   |
 
-> Full 12-page report with references, flowcharts and detailed analysis is available in [`docs/AML_NEW.pdf`](docs/AML_NEW.pdf)

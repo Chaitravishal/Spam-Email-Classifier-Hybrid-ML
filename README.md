@@ -9,7 +9,7 @@
 
 ## 🔗 Open in Google Colab
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](PASTE_YOUR_COLAB_LINK_HERE)
+https://colab.research.google.com/drive/1bXN2Gn7SUjXkyAmVZcZr3rtQrwT2XvGY?usp=sharing
 
 ---
 
